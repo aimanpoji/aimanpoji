@@ -2,7 +2,7 @@
 
 
 - 🔭 Im a student and like everything about cybersecurity
-- ⚡ Fun fact: I love to pwn machine.
+- ⚡ Fun fact: I like coffee more than tea.
 - 🤝 Reach me at discord [_poji#1337](https://discordapp.com/users/_poji#1337) 
 
 ![aimanpoji](http://www.hackthebox.eu/badge/image/152265)

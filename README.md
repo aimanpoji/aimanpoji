@@ -6,6 +6,6 @@
 - 🤝 Reach me at discord _poji#1337
 
 ![aimanpoji](http://www.hackthebox.eu/badge/image/152265)
-![aimanpoji](https://tryhackme-badges.s3.amazonaws.com/P0j1.png)
+![aimanpoji](https://github.com/aimanpoji/aimanpoji/blob/main/P0j1.png)
 
 
